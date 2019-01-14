@@ -2,7 +2,7 @@ This is a basic Meteor Angualr based Application, which was recently upgraded fr
 
 Simply go to project directory:
 
-i.e meteor-demo-app
+i.e angularjs-meteor
 
 and type:
 
